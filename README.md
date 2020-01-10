@@ -1,16 +1,33 @@
-# flutter_google_auth
+# Flutter Real-Time Location Updates
 
-A new Flutter project.
+This is a very basic implementation of using Google as a sign-in authentication provider for your Flutter Apps.
 
-## Getting Started
+## Reference
+Medium Article
 
-This project is a starting point for a Flutter application.
+https://medium.com/@romanejaquez/implement-real-time-location-updates-on-google-maps-in-flutter-235c8a09173e
 
-A few resources to get you started if this is your first Flutter project:
+Please follow the instructions in the following dependency packages:
+Google Sign In Package (https://pub.dev/packages/google_sign_in)
+Firebase Authentication (https://pub.dev/packages/firebase_auth)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Useful References 
+These are some links on things to keep in mind while debugging the Firebase Authentication setup, creation of your Firebase account and setting up Firebase for both IOS and Android in your respective projects:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://stackoverflow.com/questions/54557479/flutter-and-google-sign-in-plugin-platformexceptionsign-in-failed-com-google
+https://developers.google.com/android/guides/client-auth
+https://developer.android.com/studio/build/multidex
+
+## Set Up Firebase for Android
+https://firebase.google.com/docs/android/setup
+
+## Set up Firebase for IOS
+https://firebase.google.com/docs/ios/setup
+
+## Youtube Flutter Video on Firebase
+https://www.youtube.com/watch?v=DqJ_KjFzL9I
+
+
+Thanks!
+
+
